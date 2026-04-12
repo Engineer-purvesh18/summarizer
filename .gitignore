@@ -3,3 +3,5 @@
 samsum-validation.csv
 samsum-train.csv
 samsum-test.csv
+results
+saved_summary_model
